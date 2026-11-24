@@ -2160,6 +2160,7 @@
     "distros": [
       "class-cross",
       "class-cross-canadian",
+      "class-crosssdk",
       "class-devupstream",
       "class-native",
       "class-nativesdk",
